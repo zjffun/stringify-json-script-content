@@ -1,4 +1,3 @@
-[![jsdelivr][jsdelivr-badge]][jsdelivr-link]
 [![npm version][fury-badge]][fury-link]
 [![test CI][test-badge]][test-link]
 [![codecov][codecov-badge]][codecov-link]
@@ -73,8 +72,6 @@ console.log(encodeJsonString);
 
 [fury-link]: https://badge.fury.io/js/stringify-json-script-content
 [fury-badge]: https://badge.fury.io/js/stringify-json-script-content.svg
-[jsdelivr-link]: https://www.jsdelivr.com/package/npm/stringify-json-script-content
-[jsdelivr-badge]: https://data.jsdelivr.com/v1/package/npm/stringify-json-script-content/badge
 [test-badge]: https://github.com/zjffun/stringify-json-script-content/workflows/test%20CI/badge.svg
 [test-link]: https://github.com/zjffun/stringify-json-script-content/actions
 [codecov-badge]: https://codecov.io/gh/zjffun/stringify-json-script-content/branch/main/graph/badge.svg
