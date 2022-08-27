@@ -64,6 +64,10 @@ console.log(encodeJsonString);
 
 ### [Unreleased]
 
+### v0.0.2
+
+- Fix packed files.
+
 ### v0.0.1
 
 - Added features stringify object to json that can use in script tags.
